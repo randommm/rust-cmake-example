@@ -1,0 +1,10 @@
+[package]
+name = "rust-cmake-example"
+version = "0.1.0"
+authors = ["Marco Inacio"]
+edition = "2021"
+
+[dependencies]
+
+[build-dependencies]
+cmake = "0.1"
